@@ -176,10 +176,6 @@ Server running in development mode on port 3000
 - **Environment Management:** dotenv  
 - **Development Tools:** Nodemon, Morgan (for logging)
 
----
-
-
-> Update the table above with your actual team names before submission.
 
 ---
 
