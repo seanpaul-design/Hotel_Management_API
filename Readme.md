@@ -17,6 +17,34 @@ Developed using **Node.js**, **Express**, and **MongoDB (Mongoose)** — this AP
 - Clean error handling and modular route setup
 
 ---
+## Base URL 
+
+https://hotel-management-api-b4dl.onrender.com
+
+## Post for Rooms
+{
+  "roomNumber": 201,
+  "type": "Double",
+  "price": 3500,
+  "status": "available"
+}
+
+## Post for Guests
+{
+  "fullName": "Jane Smith",
+  "email": "jane.smith@example.com",
+  "phone": "09181234567",
+  "address": "Cebu City, Philippines"
+}
+## Post for Bookings
+{
+  "guest": "6717be19ef00d32c8f6c1111",
+  "room": "6717ab02ef00d32c8f6b1234",
+  "checkInDate": "2025-10-23",
+  "checkOutDate": "2025-10-25",
+  "status": "confirmed"
+}
+
 
 ## 🧩 Project Structure
 
