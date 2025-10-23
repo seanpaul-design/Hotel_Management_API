@@ -29,6 +29,9 @@ https://hotel-management-api-b4dl.onrender.com
   "status": "available"
 }
 
+## Put for rooms
+"occupied"
+
 ## Post for Guests
 {
   "fullName": "Jane Smith",
@@ -36,6 +39,10 @@ https://hotel-management-api-b4dl.onrender.com
   "phone": "09181234567",
   "address": "Cebu City, Philippines"
 }
+
+## Put for guests
+"Taguig City, Philippines"
+
 ## Post for Bookings
 {
   "guest": "6717be19ef00d32c8f6c1111",
@@ -45,6 +52,8 @@ https://hotel-management-api-b4dl.onrender.com
   "status": "confirmed"
 }
 
+## Put for bookings
+"checked_out"
 
 ## 🧩 Project Structure
 
